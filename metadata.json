@@ -1,0 +1,8 @@
+{
+  "name": "Peta Konsep Bahasa Indonesia Kelas 2 MI",
+  "description": "Aplikasi peta konsep interaktif pelajaran Bahasa Indonesia kelas 2 MI (Madrasah Ibtidaiyah) Semester 1, dilengkapi dengan penjelasan materi, kuis interaktif, kamus cilik, dan fitur AI 'Tanya Kak Gemini' untuk membuat cerita edukatif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
